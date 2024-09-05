@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["WATCHING MOON TECH","PLAYING MOON TECH"];
+const statusMessages = ["Watching MoonTech","Watching MoonTech"];
 
 
 let currentIndex = 0;
